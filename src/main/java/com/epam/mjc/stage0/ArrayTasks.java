@@ -120,6 +120,7 @@ public class ArrayTasks {
      * arr = [[5, 4], [7]]       -> [[7], [4, 5]]
      */
     public int[][] sortRaggedArray(int[][] arr) {
-
+        int[][] result = new int[arr.length][];
+        return result;
     }
 }
