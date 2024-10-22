@@ -1,7 +1,5 @@
 package com.epam.mjc.stage0;
 
-import java.util.List;
-
 /**
  * Here are the tasks for working with the arrays.
  * <p>
